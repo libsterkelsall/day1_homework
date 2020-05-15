@@ -1,5 +1,4 @@
-/* Applies to the entire body of the document (except where overridden by more specific selectors). */
-/* Setting all elements to have zero padding and zero margins to make them look the same in all browsers. */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -23,7 +22,7 @@ header {
 /*giving style instructions for the display of "Horiseon" in the header*/
 header h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 50px;
 }
 /*making the "seo" stand out in grey in the header*/
 #seo {
@@ -35,7 +34,7 @@ header nav {
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: x-large;
 }
 
 /*ensuring list items are in horizontal line*/
@@ -87,6 +86,7 @@ a {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    font-size: large;
 }
 
 
@@ -123,8 +123,10 @@ a {
 
 
 .benefit-insert h3 {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     text-align: center;
+    font-size: larger;
+    font-weight: bold;
 }
 
 .benefit-insert img {
