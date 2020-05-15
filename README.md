@@ -1,6 +1,5 @@
 # day1_homework
 HTML CSS Git: Code Refractor
-<<<<<<< HEAD
 TASK
 to refactor an existing webpage to make it accessible
 optimize website for search engine bots  
@@ -9,6 +8,8 @@ ensure access for people with socio-economic restrictions (out-dated browsers an
 try to leave code better than found it
 
 Corrections to index.html
+
+    inserted link to new reset.css file 
 
     altered description in <head> <title> to reflect company name on browser tab
 
@@ -86,12 +87,3 @@ Corrections to CSS
     changed <div> to <footer> to describe container for footer
 
 
-=======
-
-Corrections to index.html
-    altered description in head
-    fixed 'search engine optimization' button
-
-Corrections to Css
-    too scared
->>>>>>> 6480f76b5ec7c160f3542b10ca143a2cee291b32
